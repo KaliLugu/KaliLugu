@@ -8,3 +8,5 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KaliLugu&repo=KaliLugu/libtex3ds&description_lines_count=1&theme=omni)](https://github.com/KaliLugu/libtex3ds)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KaliLugu&repo=KaliLugu/3ds-vscode-template&description_lines_count=1&theme=omni)](https://github.com/KaliLugu/3ds-vscode-template)
+
+discord : [discord](https://discordapp.com/users/676818576593911851)
