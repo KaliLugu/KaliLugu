@@ -8,6 +8,9 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KaliLugu&repo=KaliLugu/libtex3ds&description_lines_count=1&theme=omni)](https://github.com/KaliLugu/libtex3ds)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KaliLugu&repo=KaliLugu/3ds-vscode-template&description_lines_count=1&theme=omni)](https://github.com/KaliLugu/3ds-vscode-template)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KaliLugu&repo=KaliLugu/json2bin&description_lines_count=1&theme=omni)](https://github.com/KaliLugu/3ds-vscode-template)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KaliLugu&repo=KaliLugu/json2bin&description_lines_count=1&theme=omni)](https://github.com/KaliLugu/ctr-request)
 
 ![Static Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C)
 ![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
