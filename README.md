@@ -18,7 +18,15 @@
 
 A C developer in his spare time who is passionate about Homebrew, software development, hardware, and cars.
 
+
 I use Arch btw
+
+##
+
+![Static Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C)
+![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Static Badge](https://img.shields.io/badge/Archlinux-blue?style=for-the-badge&logo=archlinux)
+![Static Badge](https://img.shields.io/badge/gay!%20<3-DA69AB?style=for-the-badge)
 
 ## C project
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KaliLugu&repo=KaliLugu/Minicraft3DS&description_lines_count=1&theme=omni)](https://github.com/KaliLugu/Minicraft3DS)
@@ -28,8 +36,6 @@ I use Arch btw
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KaliLugu&repo=KaliLugu/ctr-request&description_lines_count=1&theme=omni)](https://github.com/KaliLugu/ctr-request)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KaliLugu&repo=KaliLugu/json2bin&description_lines_count=1&theme=omni)](https://github.com/KaliLugu/json2bin)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KaliLugu&repo=KaliLugu/esp32-template&description_lines_count=1&theme=omni)](https://github.com/KaliLugu/esp32-template)
 
-![Static Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C)
-![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Static Badge](https://img.shields.io/badge/Archlinux-blue?style=for-the-badge&logo=archlinux)
-![Static Badge](https://img.shields.io/badge/gay!%20<3-DA69AB?style=for-the-badge)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=KaliLugu&repo=KaliLugu/espfetch&description_lines_count=1&theme=omni)](https://github.com/KaliLugu/espfetch)
